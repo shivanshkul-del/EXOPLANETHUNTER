@@ -1,0 +1,4 @@
+﻿run_id,csv_filename,experiment,object_diameter_mm,motor_setting,cycle_period_s,background_condition,path_condition,notes
+run01,run_20261026_163841.csv,baseline,66,unknown,4.615,normal,unchanged,Initial recording; 13 revolutions in 60 seconds
+run02,run_20261026_170039.csv,repeatability,66,unknown,4.615,normal,unchanged,13 revolutions in 60 seconds
+run03,run_20261026_170150.csv,repeatability,66,unknown,4.615,normal,unchanged,13 revolutions in 60 seconds
